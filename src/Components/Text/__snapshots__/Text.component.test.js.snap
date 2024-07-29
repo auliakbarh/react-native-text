@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text component unit test should render Text component with children "Hello World!" 1`] = `
+<Text
+  testID="text-hello-world"
+>
+  Hello World!
+</Text>
+`;
