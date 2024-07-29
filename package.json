@@ -2,6 +2,7 @@
   "name": "@auliakbarh/text",
   "version": "0.1.0",
   "description": "Text component for react-native",
+  "private": false,
   "source": "./src/index.ts",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
