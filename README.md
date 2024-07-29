@@ -12,11 +12,11 @@ npm install @auliakbarh/text
 
 
 ```js
-import { multiply } from '@auliakbarh/text';
+import Text from '@auliakbarh/text';
 
 // ...
 
-const result = await multiply(3, 7);
+<Text>Hello World!</Text>
 ```
 
 
